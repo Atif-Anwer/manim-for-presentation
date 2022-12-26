@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Atif/Documents/Github/manim-for-presentation/media/videos/DRM/1080p60/partial_movie_files/drm/2839166528_345352296_2981973652.mp4'
+file 'file:C:/Users/Atif/Documents/Github/manim-for-presentation/media/videos/DRM/1080p60/partial_movie_files/drm/1872805520_1307881857_929051583.mp4'
+file 'file:C:/Users/Atif/Documents/Github/manim-for-presentation/media/videos/DRM/1080p60/partial_movie_files/drm/1872805520_190800790_939653821.mp4'
+file 'file:C:/Users/Atif/Documents/Github/manim-for-presentation/media/videos/DRM/1080p60/partial_movie_files/drm/1872805520_3315967912_2031304319.mp4'
+file 'file:C:/Users/Atif/Documents/Github/manim-for-presentation/media/videos/DRM/1080p60/partial_movie_files/drm/2006980691_622273643_3351560602.mp4'
+file 'file:C:/Users/Atif/Documents/Github/manim-for-presentation/media/videos/DRM/1080p60/partial_movie_files/drm/4089717783_3533051148_77836813.mp4'
+file 'file:C:/Users/Atif/Documents/Github/manim-for-presentation/media/videos/DRM/1080p60/partial_movie_files/drm/3732487888_329969645_1924179082.mp4'
